@@ -7,3 +7,18 @@ body{
     text-align: center;
     margin-top: 60px;
 }
+
+div#busca {
+    
+    background: rgba(0, 0, 0, 0.863);
+    border: 1px solid;
+    margin-top: 30px;
+    padding: 10px;
+    text-align: center;
+    display: block;
+    border-radius: 50px;
+   
+   
+    
+    
+}
